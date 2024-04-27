@@ -33,3 +33,9 @@ python run_simulation.py
 <img src="./image/SPH-3.png">
 <img src="./image/SPH-4.png">
 <img src="./image/SPH-5.png">
+
+## Related
+
+The simulator with renderer:
+
+[3D Fluid Simulation (C++ Based)](https://github.com/guardhao104/3DFluidSimulation_CppBase)
